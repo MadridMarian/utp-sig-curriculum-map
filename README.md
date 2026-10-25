@@ -8,13 +8,6 @@ Repositorio interactivo de seguimiento y organización de la plan de estudios of
 
 ---
 
-## 🎯 Objetivo del Repositorio
-
-- **Seguimiento Académico:** Registro estructurado del avance materia por materia.
-- **Relación con Proyectos:** Mapeo de conceptos aprendidos en clases (C#, Java, Python, SQL, Métodos Numéricos, etc.) aplicados en repositorios y desarrollos prácticos.
-
----
-
 ## 🗺️ Mapa de la Malla Curricular (Plan 2025)
 
 > **Leyenda de Estado:**
@@ -100,7 +93,7 @@ Repositorio interactivo de seguimiento y organización de la plan de estudios of
 ---
 
 ### 🔹 III AÑO
-⚪
+
 <details open>
 <summary><b>Primer Semestre</b></summary>
 
@@ -112,7 +105,7 @@ Repositorio interactivo de seguimiento y organización de la plan de estudios of
 | 0687 | Organización y Arquitectura de Computadoras | 4 | TIC | ⚪ |
 | 1395 | Sistemas de Información II | 4 | Sistemas de Inf. I | ⚪ |
 | 8030 | Sistemas Contables | 3 | Cursar III Año | ⚪ |
-| 8623 | Metodología de la Investigación | 3 | Probabilidad Aplicada | 🟡 |
+| 8623 | Metodología de la Investigación | 3 | Probabilidad Aplicada | ⚪ |
 
 </details>
 
