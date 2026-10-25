@@ -107,7 +107,7 @@ Repositorio interactivo de seguimiento y organización de la plan de estudios of
 | Código | Asignatura | Créditos | Requisitos | Estado |
 | :---: | :--- | :---: | :---: | :---: |
 | 0856 | Base de Datos I | 4 | Estructura de Datos | ⚪ |
-| - | Ingeniería de Software I | 4 | Ninguno | ⚪ |
+| 1570 | Ingeniería de Software I | 4 | Ninguno | ⚪ |
 | 1572 | Lenguaje de Programación III (Python) | 4 | Lenguaje de Prog. II | ⚪ |
 | 0687 | Organización y Arquitectura de Computadoras | 4 | TIC | ⚪ |
 | 1395 | Sistemas de Información II | 4 | Sistemas de Inf. I | ⚪ |
@@ -155,7 +155,7 @@ Repositorio interactivo de seguimiento y organización de la plan de estudios of
 | :---: | :--- | :---: | :---: | :---: |
 | 8456 | Simulación de Sistemas | 4 | Ing. Sistemas Dinámicos | ⚪ |
 | 0837 | Seguridad Informática | 4 | Redes Informáticas | ⚪ |
-| 8486 | Auditoría de Tecnologías de Información y Com. | 4 | Sistemas de Inf. II | ⚪ |
+| 8486 | Auditoría de Tecnologías de la Información y Com. | 4 | Sistemas de Inf. II | ⚪ |
 | 1398 | Análisis y Visualización de Datos | 4 | Base de Datos II / Prob. Ap. | ⚪ |
 | 8469 | Gerencia de Proyectos Informáticos | 4 | Adm. Financiera | ⚪ |
 | 0756 | Tópicos Especiales I | 3 | Cursar IV Año | ⚪ |
